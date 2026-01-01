@@ -1,5 +1,5 @@
 # Advance-Data-Structures-Laboratory
-This repository contains the implementation of programs prescribed in the **Advance Data Structures Laboratory (18BTCS411)** course.  
+This repository contains the implementation of programs prescribed in the **Advance Data Structures Laboratory** course.  
 The experiments focus on advanced non-linear data structures, efficient searching techniques, graph algorithms, hashing, and file organization methods using **C/C++ or Python**.
 
 ---
